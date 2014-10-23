@@ -20,9 +20,9 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-example-of-big-data-visualization-in-a-public-space)
+[title-of-the-article](http://link-to-an-article-about-machine-learning-use-for-big-data)
 
-## Describe briefly the "motivation" and "intended audience" of this public visualization (4 points).
+## Discuss how you may apply the machine learning technique mentioned in this article to another interesting problem (4 points).
 
 fill-in-your-answer
 
@@ -84,7 +84,19 @@ fill-in-your-answer
 
 ![terminal output of mongodb query](screenshot.png?raw=true)
 
-## Challenges
+## Challenge 1
+
+### 1
+
+> db.course_events.[complete this query]
+
+![screenshot](screenshot.png?raw=true)
+
+### 2
+
+> db.course_events.[complete this query]
+
+![screenshot](screenshot.png?raw=true)
 
 ### 3
 
@@ -134,3 +146,21 @@ fill-in-your-answer
 
 ![screenshot](screenshot.png?raw=true)
 
+
+## Challenge 2
+
+### 1
+
+{question-in-plain-English}
+
+> db.course_events.[complete this query]
+
+![screenshot](screenshot.png?raw=true)
+
+### 2
+
+{question-in-plain-English}
+
+> db.course_events.[complete this query]
+
+![screenshot](screenshot.png?raw=true)
