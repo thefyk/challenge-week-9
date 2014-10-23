@@ -20,55 +20,55 @@ fill-in-your-answer
 
 fill-in-your-answer
 
-# Show and tell (6 points)
+# Show and tell (8 points)
 
 ## Link (2 points)
 
 [title-of-the-article](http://link-to-an-article-about-machine-learning-use-for-big-data)
 
-## Discuss how you may apply the machine learning technique mentioned in this article to another interesting problem (4 points).
+## Discuss how you may apply the machine learning technique mentioned in this article to another interesting problem (6 points).
 
 fill-in-your-answer
 
 # D3 IV
 
-## Checkpoints
+## Checkpoints (3 points x 4 = 12 points)
 
-# 1.
-
-![image](image.png?raw=true)
-
-[checkpoint](checkpoint.html)
-
-# 2.
+# 1. (3 points)
 
 ![image](image.png?raw=true)
 
 [checkpoint](checkpoint.html)
 
-# 3.
+# 2. (3 points)
 
 ![image](image.png?raw=true)
 
 [checkpoint](checkpoint.html)
 
-# 4.
+# 3. (3 points)
 
 ![image](image.png?raw=true)
 
 [checkpoint](checkpoint.html)
 
-## Challenges
-
-# 1.
+# 4. (3 points)
 
 ![image](image.png?raw=true)
 
-# 2.
+[checkpoint](checkpoint.html)
+
+## Challenges (4 points x 3 = 12 points)
+
+# 1. (4 points)
 
 ![image](image.png?raw=true)
 
-# 3.
+# 2. (4 points)
+
+![image](image.png?raw=true)
+
+# 3. (4 points)
 
 ![image](image.png?raw=true)
 
@@ -78,82 +78,82 @@ fill-in-your-answer
 
 # MongoDB II
 
-## Checkpoints ( points x 4 = 20 points)
+## Checkpoints (6 points x 2 = 12 points)
 
-### 1 (5 points)
+### 1 (6 points)
 
 [mongodb js code collecting github events about our course](mongodb-github.js)
 
-### 2 (5 points)
+### 2 (6 points)
 
 ![terminal output of mongodb query](screenshot.png?raw=true)
 
-## Challenge 1
+## Challenge 1 (4 points x 10 = 40 points)
 
-### 1
-
-> db.course_events.[complete this query]
-
-![screenshot](screenshot.png?raw=true)
-
-### 2
+### 1 (4 points)
 
 > db.course_events.[complete this query]
 
 ![screenshot](screenshot.png?raw=true)
 
-### 3
+### 2 (4 points)
 
 > db.course_events.[complete this query]
 
 ![screenshot](screenshot.png?raw=true)
 
-### 4
+### 3 (4 points)
 
 > db.course_events.[complete this query]
 
 ![screenshot](screenshot.png?raw=true)
 
-### 5
+### 4 (4 points)
 
 > db.course_events.[complete this query]
 
 ![screenshot](screenshot.png?raw=true)
 
-### 6
+### 5 (4 points)
 
 > db.course_events.[complete this query]
 
 ![screenshot](screenshot.png?raw=true)
 
-### 7
+### 6 (4 points)
 
 > db.course_events.[complete this query]
 
 ![screenshot](screenshot.png?raw=true)
 
-### 8
+### 7 (4 points)
 
 > db.course_events.[complete this query]
 
 ![screenshot](screenshot.png?raw=true)
 
-### 9
+### 8 (4 points)
 
 > db.course_events.[complete this query]
 
 ![screenshot](screenshot.png?raw=true)
 
-### 10
+### 9 (4 points)
+
+> db.course_events.[complete this query]
+
+![screenshot](screenshot.png?raw=true)
+
+### 10 (4 points)
 
 > db.course_events.[complete this query]
 
 ![screenshot](screenshot.png?raw=true)
 
 
-## Challenge 2
+## Challenge 2 (8 points x 2 = 16 points) 
 
-### 1
+### 1 (8 points)
 
 {question-in-plain-English}
 
@@ -161,7 +161,7 @@ fill-in-your-answer
 
 ![screenshot](screenshot.png?raw=true)
 
-### 2
+### 2 (8 points)
 
 {question-in-plain-English}
 
