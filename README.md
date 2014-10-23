@@ -12,6 +12,10 @@ write-your-name
 
 fill-in-your-answer
 
+# When did you first start working on this week's learning challenges?
+
+fill-in-your-answer
+
 # What is the most difficult part about this week's challenge?
 
 fill-in-your-answer
