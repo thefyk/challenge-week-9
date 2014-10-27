@@ -54,7 +54,7 @@ If the algorithms work for detecting fraud in banks, there can also be similar t
 
 # 4. (3 points)
 
-![image](Ch4D3.html)
+![image](Ch4D3.png)
 
 [checkpoint](Ch4.html)
 
@@ -70,7 +70,7 @@ If the algorithms work for detecting fraud in banks, there can also be similar t
 
 # 3. (4 points)
 
-![image](C3D3.png)
+![image](CH3D3.png)
 
 [challenge3](C3D3.html)
 
@@ -86,7 +86,7 @@ If the algorithms work for detecting fraud in banks, there can also be similar t
 
 ### 2 (6 points)
 
-![terminal output of mongodb query](ChMdb)
+![terminal output of mongodb query](ChMdb.png)
 
 ## Challenge 1 (4 points x 10 = 40 points)
 
