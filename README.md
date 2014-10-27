@@ -14,7 +14,7 @@ Michael Fyk
 
 # When did you first start working on this week's learning challenges?
 
-Saturday morning.
+Sunday morning.
 
 # What is the most difficult part about this week's challenge?
 
@@ -70,7 +70,7 @@ If the algorithms work for detecting fraud in banks, there can also be similar t
 
 # 3. (4 points)
 
-![image](CH3D3.png)
+![image](http://i.imgur.com/fltDTiV.png)
 
 [challenge3](C3D3.html)
 
